@@ -1,0 +1,617 @@
+﻿skill_id,code,name,Skill Builder ID,prereq_id,prereq_code,prereq_name,prereq_remediation_problem_set_id-2
+282,1.G.A.1,Draw shapes w/ defining attributes,,,,,
+276,1.G.A.2,Compose composite shapes,,,,,
+283,1.G.A.3,Decompose shapes into fractions,,,,,
+284,1.MD.A.1,Order objects by length,,,,,
+285,1.MD.A.2,Measure length using unit pieces,,,,,
+286,1.MD.B.3,Tell time (hours/half),,,,,
+287,1.MD.C.4,"Organize, represent, and interpret categorical data",,,,,
+288,1.NBT.A.1,"Count, read, & write numbers to 120",,,,,
+289,1.NBT.B.2a,10 as a bundle of ones,,,,,
+290,1.NBT.B.2b,Decompose numbers 11-19,,,,,
+291,1.NBT.B.2c,Decompose multples of 10,,,,,
+292,1.NBT.B.3,Compare 2-digit numbers,,,,,
+293,1.NBT.C.4,Add within 100,,,,,
+294,1.NBT.C.5,Add/Subtract 10 mentally,,,,,
+295,1.NBT.C.6,Subtract multiples of 10,,,,,
+296,1.OA.A.1,Add/Subtract within 20 in context,,,,,
+297,1.OA.A.2,Add 3 whole numbers within 20 in context,,,,,
+277,1.OA.B.3,Properties (commutative/associative),,,,,
+278,1.OA.B.4,Subtraction as unknown addend,,,,,
+298,1.OA.C.5,Counting on to add/subtract,,,,,
+299,1.OA.C.6,Add/subtract within 20 (fluently to 10),,,,,
+300,1.OA.D.7,Recognizing equivalent add/subtract expressions,,,,,
+279,1.OA.D.8,Missing whole number (add/subtract) equations,,,,,
+301,2.G.A.1,"Identify triangles, quadrilaterals, pentagons, hexagons, and cubes",,,,,
+302,2.G.A.2,Partition a rectangle into equal size pieces,,,,,
+303,2.G.A.3,Partition circles & rectangles to create fractional pieces,,,,,
+304,2.MD.A.1,Measure length,,,,,
+305,2.MD.A.2,Measure length with different units,,,,,
+306,2.MD.A.3,Estimate length,,,,,
+307,2.MD.A.4,Use measurements to compare lengths,,,,,
+308,2.MD.B.5,Use add/subtraction within 100 in context of length,,,,,
+309,2.MD.B.6,Use number line to add/subtract within 100,,,,,
+310,2.MD.C.7,Tell and Write Time From Analog and Digital Clocks,,,,,
+311,2.MD.C.8,Money,,,,,
+312,2.MD.D.10,Use bar graph to solove problems,,,,,
+313,2.MD.D.9,Line plot using measurements,,,,,
+314,2.NBT.A.1a,Decompose 100,,,,,
+315,2.NBT.A.1b,Compose multiples of 100,,,,,
+316,2.NBT.A.2,Count within 1000 & skip count,,,,,
+317,2.NBT.A.3,Read & write to 1000,,,,,
+318,2.NBT.A.4,"Compare 3-digit numbers using >, =, <",,,,,
+319,2.NBT.B.5,Fluently add/subtract within 100,,,,,
+320,2.NBT.B.6,Add 4 2-digit numbers,,,,,
+321,2.NBT.B.7,Add/subtract within 1000,,,,,
+322,2.NBT.B.8,Add/subtract 100 mentally,,,,,
+323,2.NBT.B.9,Explain addition & subtraction,,,,,
+280,2.OA.A.1,"Add/Subtract within 100, 1&2-step word problems",,,,,
+324,2.OA.B.2,Fluently add/subtract within 20,,,,,
+325,2.OA.C.3,Identify Odd/Even,,,,,
+326,2.OA.C.4,Add using arrays,,,,,
+32,3.G.A.1,Classifying shapes,,,,,
+33,3.G.A.2,Area as unit fraction,,,,,
+20,3.MD.A.1,Elapsed Time,37824,,,,
+21,3.MD.A.2,Word problems mass & volume,,,,,
+22,3.MD.B.3,Bar Graphs,78955,,,,
+23,3.MD.B.4,Line plot,,,,,
+24,3.MD.C.5a,Unit square,,,,,
+25,3.MD.C.5b,Unit square to find area,,,,,
+26,3.MD.C.6,Area of Rectangles by Unit Squares,,,,,
+27,3.MD.C.7a,Area of Rectangles,10857,,,,
+28,3.MD.C.7b,Area of Rectangular Word Problems,,27,3.MD.C.7a,Area of Rectangles,10857
+29,3.MD.C.7c,Area of rectangle distributive property,,,,,
+30,3.MD.C.7d,Area of rectangle by decomposing figure,,,,,
+31,3.MD.D.8,Perimeter of Polygons,,,,,
+10,3.NBT.A.1,Rounding to 10 or 100,87316,,,,
+11,3.NBT.A.2,Add & subtract within 1000,,,,,
+12,3.NBT.A.3,Multiply one-digit by 10s,,,,,
+13,3.NF.A.1,Write fractions,,,,,
+14,3.NF.A.2a,Fractional intervals on a number line,,,,,
+15,3.NF.A.2b,Fractions on a number line,,,,,
+16,3.NF.A.3a,Equivalent fractions as same size,,,,,
+17,3.NF.A.3b,Generate equivalent fractions,,,,,
+18,3.NF.A.3c,Whole numbers as fractions,,,,,
+19,3.NF.A.3d,Compare fractions like numerator/denomonator,,,,,
+1,3.OA.A.1,Interpret products,,,,,
+2,3.OA.A.2,Interpret quotients,,,,,
+1092,3.OA.A.3,Multiplication Word Problems,,,,,
+3,3.OA.A.3,Division word problems,,,,,
+4,3.OA.A.4,Fact family- solve for unknown,,,,,
+5,3.OA.B.5,Apply properties to multiply & divide,,,,,
+6,3.OA.B.6,Division as unknown factor,,,,,
+7,3.OA.C.7,Fluently multiply within 100,,,,,
+1093,3.OA.C.7,Fluently divide within 100,,,,,
+8,3.OA.D.8,2-step word problems,,,,,
+9,3.OA.D.9,Apply properties to arithmetic patterns,,,,,
+70,4.G.A.1,Parallel and Perpendicular Lines,95443,,,,
+69,4.G.A.1,Identifying Angles,9245,,,,
+71,4.G.A.2,Properties & Classification Triangles & 2D Shapes,,,,,
+72,4.G.A.3,Line Symmetry,,,,,
+60,4.MD.A.1,English measurement conversions,,,,,
+61,4.MD.A.2,Word problems (distance/money/time/volume/mass),,,,,
+62,4.MD.A.3,Area Problems,72438,26,3.MD.C.6,Area of Rectangles by Unit Squares,
+63,4.MD.A.3,Perimeter Problems,72442,31,3.MD.D.8,Perimeter of Polygons,
+64,4.MD.B.4,Line Plot - 4th Grade Fractions,78704,52,4.NF.B.3c,Subtracting Mixed Numbers - Like Denominators,38734
+65,4.MD.C.5a,1-degree angles,,,,,
+66,4.MD.C.5b,Recognize angles formed by rays,,,,,
+67,4.MD.C.6,Measure angles,,,,,
+68,4.MD.C.7,Word problems w/ additive angles,,,,,
+40,4.NBT.A.1,Place Value Relationships,,,,,
+41,4.NBT.A.2,Expanded Form Whole Numbers,32179,40,4.NBT.A.1,Place Value Relationships,
+1094,4.NBT.A.2,Comparing Whole Numbers,,,,,
+42,4.NBT.A.3,Rounding Whole Numbers,87321,41,4.NBT.A.2,Expanded Form Whole Numbers,32179
+42,4.NBT.A.3,Rounding Whole Numbers,87321,10,3.NBT.A.1,Rounding to 10 or 100,87316
+44,4.NBT.B.4,Subtracting Whole Numbers,11833,,,,
+43,4.NBT.B.4,Adding Whole Numbers,11827,,,,
+45,4.NBT.B.5,Multiplying Whole Numbers,26783,43,4.NBT.B.4,Adding Whole Numbers,11827
+46,4.NBT.B.6,Divide whole numbers,,,,,
+47,4.NF.A.1,Equivalent Fractions,39181,,,,
+48,4.NF.A.2,Ordering Fractions,,47,4.NF.A.1,Equivalent Fractions,39181
+49,4.NF.B.3a,Decompose fractions,,,,,
+50,4.NF.B.3b,Multiple decomposition of fractions,,,,,
+51,4.NF.B.3c,Adding Mixed Numbers - Like Denominators,38729,,,,
+52,4.NF.B.3c,Subtracting Mixed Numbers - Like Denominators,38734,44,4.NBT.B.4,Subtracting Whole Numbers,11833
+53,4.NF.B.3d,Word problems add/subt fractions like numerators,,,,,
+54,4.NF.B.4a,Write fractions as product,,,,,
+55,4.NF.B.4b,Multiply fraction by whole number,,,,,
+56,4.NF.B.4c,Word problem multiply fraction by whole number,,,,,
+57,4.NF.C.5,Equivalent fraction w/ multiples of 10,,,,,
+58,4.NF.C.6,Converting from Decimals to Fractions,6876,,,,
+59,4.NF.C.7,Compare decimals to hundredths,,,,,
+34,4.OA.A.1,Verbal models multiplicative comparisons,,,,,
+35,4.OA.A.2,Word problems multiplicative comparison,,,,,
+1095,4.OA.A.3,Multi-step word problems interpret remainders,,,,,
+36,4.OA.A.3,Multi-step word problems,,,,,
+37,4.OA.B.4,Factors,,,,,
+38,4.OA.B.4,Prime Number,,,,,
+39,4.OA.C.5,Pattern Finding,32177,,,,
+108,5.G.A.1,Plotting in Quadrant I,,,,,
+109,5.G.A.2,Interpret points Quadrant I,,,,,
+110,5.G.B.3,Categorize 2-dimensional figures,,,,,
+111,5.G.B.4,Properties and Classification of Polygons with 5 or more sides,24173,69,4.G.A.1,Identifying Angles,9245
+112,5.G.B.4,Properties and Classification of Quadrilaterals,23755,69,4.G.A.1,Identifying Angles,9245
+98,5.MD.A.1,Unit Conversion Within a System - Metric,9053,77,5.NBT.A.2,Multiplying and Dividing by Powers of 10,37002
+100,5.MD.A.1,Unit Conversion Within a System - Time,9051,44,4.NBT.B.4,Subtracting Whole Numbers,11833
+99,5.MD.A.1,Unit Conversion Within a System - Standard,9052,82,5.NBT.B.6,Dividing Whole Numbers,26468
+101,5.MD.B.2,Line Plot - 5th Grade Fractions,76046,64,4.MD.B.4,Line Plot - 4th Grade Fractions,78704
+102,5.MD.C.3a,Unit cube,,,,,
+103,5.MD.C.3b,Unit cubes to construct volume,,,,,
+104,5.MD.C.4,Calculating Volume Using Unit Cubes,54623,,,,
+105,5.MD.C.5a,Volume of rectangular prism without formula,,,,,
+106,5.MD.C.5b,Volume of Rectangular Prisms,8884,104,5.MD.C.4,Calculating Volume Using Unit Cubes,54623
+107,5.MD.C.5c,Volume of Compound Rectangular Prisms,55693,106,5.MD.C.5b,Volume of Rectangular Prisms,8884
+76,5.NBT.A.1,Relationships Between Place Values,,,,,
+77,5.NBT.A.2,Multiplying and Dividing by Powers of 10,37002,40,4.NBT.A.1,Place Value Relationships,
+1097,5.NBT.A.2,Write powers of 10 with exponents,,,,,
+1096,5.NBT.A.2,Multiply & Divide by powers of 10 (decimal placement),,,,,
+78,5.NBT.A.3a,Reading and Writing Decimals,73681,76,5.NBT.A.1,Relationships Between Place Values,
+1098,5.NBT.A.3a,Decimals- expanded form,,,,,
+79,5.NBT.A.3b,Comparing Positive Decimals,41300,78,5.NBT.A.3a,Reading and Writing Decimals,73681
+80,5.NBT.A.4,Rounding to any decimal place,,,,,
+81,5.NBT.B.5,Multiplying Whole Numbers Fluently,26695,45,4.NBT.B.5,Multiplying Whole Numbers,26783
+82,5.NBT.B.6,Dividing Whole Numbers,26468,81,5.NBT.B.5,Multiplying Whole Numbers Fluently,26695
+1099,5.NBT.B.7,Subtract Decimals,,,,,
+1101,5.NBT.B.7,Divide Decimals,,,,,
+1100,5.NBT.B.7,Multiplying Decimals Using Standard Algorithm,,,,,
+83,5.NBT.B.7,Add Decimals,,,,,
+86,5.NF.A.1,Subtracting Proper Fractions,38719,47,4.NF.A.1,Equivalent Fractions,39181
+84,5.NF.A.1,Adding Proper Fractions,38715,51,4.NF.B.3c,Adding Mixed Numbers - Like Denominators,38729
+86,5.NF.A.1,Subtracting Proper Fractions,38719,52,4.NF.B.3c,Subtracting Mixed Numbers - Like Denominators,38734
+85,5.NF.A.1,Adding Mixed Numbers,38731,84,5.NF.A.1,Adding Proper Fractions,38715
+87,5.NF.A.1,Subtracting Mixed Numbers,38736,86,5.NF.A.1,Subtracting Proper Fractions,38719
+84,5.NF.A.1,Adding Proper Fractions,38715,47,4.NF.A.1,Equivalent Fractions,39181
+88,5.NF.A.2,Word problems addition & subtraction fractions ,,,,,
+89,5.NF.B.3,Word Problems with Fraction as Division,,,,,
+90,5.NF.B.4a,Multiplying Fractions,164494,45,4.NBT.B.5,Multiplying Whole Numbers,26783
+1102,5.NF.B.4a,Multiplication Fractions by Whole Number,,,,,
+91,5.NF.B.4b,Area of rectangle w/ fractional sides,,,,,
+92,5.NF.B.5a,Compare sizes of factors and products,,,,,
+93,5.NF.B.5b,Multiplication as scaling,,,,,
+94,5.NF.B.6,Multiplying Fractions - Word Problems,34259,47,4.NF.A.1,Equivalent Fractions,39181
+95,5.NF.B.7a,Divide unit fraction by whole number,,,,,
+96,5.NF.B.7b,Divide whole number by unit fraction,,,,,
+97,5.NF.B.7c,Word problems division of unit fractions and whole numbers,,,,,
+73,5.OA.A.1,Order of Operations with Parenthesis,541189,,,,
+74,5.OA.A.2,Write verbal expressions as numerical expressions,,,,,
+75,5.OA.B.3,Generating Numerical Patterns,7179,39,4.OA.C.5,Pattern Finding,32177
+140,6.EE.A.1,Evaluating Exponents,204176,77,5.NBT.A.2,Multiplying and Dividing by Powers of 10,37002
+140,6.EE.A.1,Evaluating Exponents,204176,73,5.OA.A.1,Order of Operations with Parenthesis,541189
+141,6.EE.A.2a,Picking Expressions From Choices ,,,,,
+142,6.EE.A.2b,Vocabulary of expressions,,,,,
+143,6.EE.A.2c,Substitution,,,,,
+144,6.EE.A.2c,"Order of Operations +,-,/,* () positive reals",,,,,
+145,6.EE.A.3,Distributive Property,11901,45,4.NBT.B.5,Multiplying Whole Numbers,26783
+146,6.EE.A.4,Identify equivalent expressions,,,,,
+147,6.EE.B.5,Substitution to solve equations,,,,,
+148,6.EE.B.6,Picking Equation and Inequality from Choices,,,,,
+149,6.EE.B.7,Solve 1 step equations from word problems,,,,,
+150,6.EE.B.8,Write an inequality to represent a condition,,,,,
+152,6.EE.C.9,Interpreting Coordinate Graphs,,,,,
+151,6.EE.C.9,Making a Table from an Equation,,,,,
+154,6.G.A.1,Area of Parallelograms,10764,156,6.G.A.1,Area of Triangles,10711
+156,6.G.A.1,Area of Triangles,10711,45,4.NBT.B.5,Multiplying Whole Numbers,26783
+156,6.G.A.1,Area of Triangles,10711,82,5.NBT.B.6,Dividing Whole Numbers,26468
+154,6.G.A.1,Area of Parallelograms,10764,27,3.MD.C.7a,Area of Rectangles,10857
+153,6.G.A.1,Area Irregular Figure,,,,,
+155,6.G.A.1,Area of Trapezoids,10765,154,6.G.A.1,Area of Parallelograms,10764
+157,6.G.A.2,Volume of rectangular prisms w/ fractional sides,,,,,
+158,6.G.A.3,Use coordinates to find lengths,,,,,
+159,6.G.A.4,Nets of 3D Figures,,,,,
+1103,6.G.A.4,Surface area using nets,,,,,
+121,6.NS.A.1,Dividing Fractions,164496,90,5.NF.B.4a,Multiplying Fractions,164494
+122,6.NS.B.2,Dividing Multi-Digit Whole Numbers,204166,82,5.NBT.B.6,Dividing Whole Numbers,26468
+126,6.NS.B.3,Dividing Positive Decimals,,82,5.NBT.B.6,Dividing Whole Numbers,26468
+124,6.NS.B.3,Subtracting Positive Decimals,36551,76,5.NBT.A.1,Relationships Between Place Values,
+126,6.NS.B.3,Dividing Positive Decimals,,77,5.NBT.A.2,Multiplying and Dividing by Powers of 10,37002
+123,6.NS.B.3,Adding Positive Decimals,35094,43,4.NBT.B.4,Adding Whole Numbers,11827
+125,6.NS.B.3,Multiplying Positive Decimals,39885,,,,
+124,6.NS.B.3,Subtracting Positive Decimals,36551,44,4.NBT.B.4,Subtracting Whole Numbers,11833
+123,6.NS.B.3,Adding Positive Decimals,35094,76,5.NBT.A.1,Relationships Between Place Values,
+129,6.NS.B.4,Factor expressions (reverse distributive property),,,,,
+128,6.NS.B.4,Least Common Multiple,,45,4.NBT.B.5,Multiplying Whole Numbers,26783
+127,6.NS.B.4,Greatest Common Factor,6921,45,4.NBT.B.5,Multiplying Whole Numbers,26783
+130,6.NS.B.4,Common Multiple,,,,,
+131,6.NS.C.5,Use integers in real contexts,,,,,
+132,6.NS.C.6a,Identify opposites of integers,,,,,
+133,6.NS.C.6b,Recognize opposite orderd pairs as reflections,,,,,
+134,6.NS.C.6c,Plotting on a Coordinate Plane,35008,108,5.G.A.1,Plotting in Quadrant I,
+135,6.NS.C.7a,Comparing Integers on a Number Line,5956,137,6.NS.C.7c,Absolute Value,31825
+136,6.NS.C.7b,Compare integers in contexts,5956,,,,
+137,6.NS.C.7c,Absolute Value,31825,,,,
+138,6.NS.C.7d,Absolute value in context,,,,,
+139,6.NS.C.8,Find distance on coordinate plane in same quadrant,,,,,
+113,6.RP.A.1,Finding the Ratio,6011,75,5.OA.B.3,Generating Numerical Patterns,7179
+113,6.RP.A.1,Finding the Ratio,6011,47,4.NF.A.1,Equivalent Fractions,39181
+114,6.RP.A.2,Expressing Unit Rate in Words,,115,6.RP.A.3a,Making Equivalent Ratio Tables,
+115,6.RP.A.3a,Making Equivalent Ratio Tables,,,,,
+116,6.RP.A.3b,Unit Rate,37372,113,6.RP.A.1,Finding the Ratio,6011
+116,6.RP.A.3b,Unit Rate,37372,114,6.RP.A.2,Expressing Unit Rate in Words,
+119,6.RP.A.3c,Conversion with Percents,,,,,
+118,6.RP.A.3c,Percent Finding Whole,204100,82,5.NBT.B.6,Dividing Whole Numbers,26468
+117,6.RP.A.3c,Percent of,413651,,,,
+120,6.RP.A.3d,Unit Conversion with Ratios,9154,121,6.NS.A.1,Dividing Fractions,164496
+160,6.SP.A.1,Recognizing Statistical Questions,53233,,,,
+161,6.SP.A.2,"Center, Spread, and Shape of Data",,101,5.MD.B.2,Line Plot - 5th Grade Fractions,76046
+161,6.SP.A.2,"Center, Spread, and Shape of Data",,164,6.SP.B.4,Box and Whisker,26902
+162,6.SP.A.3,Compare Measure of Center with Variation,,161,6.SP.A.2,"Center, Spread, and Shape of Data",
+165,6.SP.B.4,Table,,,,,
+166,6.SP.B.4,Histograms,,101,5.MD.B.2,Line Plot - 5th Grade Fractions,76046
+164,6.SP.B.4,Box and Whisker,26902,172,6.SP.B.5c,Median,32129
+167,6.SP.B.4,Number Line,,,,,
+163,6.SP.B.4,Circle Graph,,,,,
+168,6.SP.B.5a,Summarize data- sample size,,,,,
+169,6.SP.B.5b,Summarize data- attributes,,,,,
+171,6.SP.B.5c,Mean,32124,43,4.NBT.B.4,Adding Whole Numbers,11827
+173,6.SP.B.5c,Deviations in Measures of Center and Spread,,171,6.SP.B.5c,Mean,32124
+170,6.SP.B.5c,"Variability - interquartile, range, and mean absolute deviation",14157,162,6.SP.A.3,Compare Measure of Center with Variation,
+172,6.SP.B.5c,Median,32129,171,6.SP.B.5c,Mean,32124
+171,6.SP.B.5c,Mean,32124,82,5.NBT.B.6,Dividing Whole Numbers,26468
+173,6.SP.B.5c,Deviations in Measures of Center and Spread,,172,6.SP.B.5c,Median,32129
+174,6.SP.B.5d,Choosing measure of center or spread in a context,,,,,
+1104,7.EE.8.4a,Equation solving 2 steps word problems,,,,,
+194,7.EE.A.1,Combining Like Terms,37570,185,7.NS.A.1d,Subtracting Integers,7014
+194,7.EE.A.1,Combining Like Terms,37570,145,6.EE.A.3,Distributive Property,11901
+195,7.EE.A.2,Equivalent expressions in context,,,,,
+196,7.EE.B.3,Multi-step problems with rational numbers,,,,,
+197,7.EE.B.3,7.EE.B.3-2,,,,,
+198,7.EE.B.4a,Equation Solving - Two or Fewer Steps,7148,185,7.NS.A.1d,Subtracting Integers,7014
+198,7.EE.B.4a,Equation Solving - Two or Fewer Steps,7148,189,7.NS.A.2c,Multiplying Integers,5965
+199,7.EE.B.4b,Solving Inequalities,614720,143,6.EE.A.2c,Substitution,
+199,7.EE.B.4b,Solving Inequalities,614720,198,7.EE.B.4a,Equation Solving - Two or Fewer Steps,7148
+1105,7.EE.B.4b,Solving inequalities word problems,,,,,
+200,7.G.A.1,Scale Drawings,7198,113,6.RP.A.1,Finding the Ratio,6011
+200,7.G.A.1,Scale Drawings,7198,177,7.RP.A.2b,Identifying the Constant of Proportionality,85626
+201,7.G.A.2,Construct shapes (unique triangles),,,,,
+202,7.G.A.3,Cross sections,,,,,
+205,7.G.B.4,Definition Pi,,,,,
+204,7.G.B.4,Area of Circles,10762,140,6.EE.A.1,Evaluating Exponents,204176
+203,7.G.B.4,Circumference,10767,126,6.NS.B.3,Dividing Positive Decimals,
+204,7.G.B.4,Area of Circles,10762,81,5.NBT.B.5,Multiplying Whole Numbers Fluently,26695
+207,7.G.B.5,Interior Angles of a Triangle,21257,206,7.G.B.5,Complementary and Supplementary Angles,9244
+206,7.G.B.5,Complementary and Supplementary Angles,9244,69,4.G.A.1,Identifying Angles,9245
+208,7.G.B.5,Interior angles of figures more than 3 sides,9185,,,,
+210,7.G.B.6,Surface Area of Prisms,8878,209,7.G.B.6,Surface Area of Rectangular Prisms,8880
+209,7.G.B.6,Surface Area of Rectangular Prisms,8880,159,6.G.A.4,Nets of 3D Figures,
+209,7.G.B.6,Surface Area of Rectangular Prisms,8880,73,5.OA.A.1,Order of Operations with Parenthesis,541189
+212,7.G.B.6,Surface Area Cylinder,8894,,,,
+211,7.G.B.6,Volume of Prisms,8917,106,5.MD.C.5b,Volume of Rectangular Prisms,8884
+209,7.G.B.6,Surface Area of Rectangular Prisms,8880,27,3.MD.C.7a,Area of Rectangles,10857
+181,7.NS.A.1a,Opposites in context to create 0,,,,,
+182,7.NS.A.1b,Describe context for adding integers,,,,,
+183,7.NS.A.1c,Describe context for subtracting integers,,,,,
+184,7.NS.A.1d,Adding Integers,7159,44,4.NBT.B.4,Subtracting Whole Numbers,11833
+186,7.NS.A.1d,Adding and Subtracting Non-Integer Rationals,5962,124,6.NS.B.3,Subtracting Positive Decimals,36551
+186,7.NS.A.1d,Adding and Subtracting Non-Integer Rationals,5962,123,6.NS.B.3,Adding Positive Decimals,35094
+184,7.NS.A.1d,Adding Integers,7159,137,6.NS.C.7c,Absolute Value,31825
+186,7.NS.A.1d,Adding and Subtracting Non-Integer Rationals,5962,185,7.NS.A.1d,Subtracting Integers,7014
+184,7.NS.A.1d,Adding Integers,7159,43,4.NBT.B.4,Adding Whole Numbers,11827
+185,7.NS.A.1d,Subtracting Integers,7014,184,7.NS.A.1d,Adding Integers,7159
+186,7.NS.A.1d,Adding and Subtracting Non-Integer Rationals,5962,86,5.NF.A.1,Subtracting Proper Fractions,38719
+186,7.NS.A.1d,Adding and Subtracting Non-Integer Rationals,5962,84,5.NF.A.1,Adding Proper Fractions,38715
+187,7.NS.A.2a,Describe context for multiplying integers,,,,,
+188,7.NS.A.2b,Describe context for dividing integers,,,,,
+191,7.NS.A.2c,Multiplying and Dividing Rationals,,190,7.NS.A.2c,Dividing Integers,7020
+191,7.NS.A.2c,Multiplying and Dividing Rationals,,121,6.NS.A.1,Dividing Fractions,164496
+189,7.NS.A.2c,Multiplying Integers,5965,45,4.NBT.B.5,Multiplying Whole Numbers,26783
+191,7.NS.A.2c,Multiplying and Dividing Rationals,,126,6.NS.B.3,Dividing Positive Decimals,
+190,7.NS.A.2c,Dividing Integers,7020,189,7.NS.A.2c,Multiplying Integers,5965
+191,7.NS.A.2c,Multiplying and Dividing Rationals,,90,5.NF.B.4a,Multiplying Fractions,164494
+190,7.NS.A.2c,Dividing Integers,7020,82,5.NBT.B.6,Dividing Whole Numbers,26468
+192,7.NS.A.2d,Convert fractions to decimals,,,,,
+193,7.NS.A.3,Integer Word Problems - All Operations,14247,86,5.NF.A.1,Subtracting Proper Fractions,38719
+193,7.NS.A.3,Integer Word Problems - All Operations,14247,190,7.NS.A.2c,Dividing Integers,7020
+193,7.NS.A.3,Integer Word Problems - All Operations,14247,185,7.NS.A.1d,Subtracting Integers,7014
+193,7.NS.A.3,Integer Word Problems - All Operations,14247,121,6.NS.A.1,Dividing Fractions,164496
+193,7.NS.A.3,Integer Word Problems - All Operations,14247,90,5.NF.B.4a,Multiplying Fractions,164494
+193,7.NS.A.3,Integer Word Problems - All Operations,14247,84,5.NF.A.1,Adding Proper Fractions,38715
+175,7.RP.A.1,Unit Rate with Fractions,663995,116,6.RP.A.3b,Unit Rate,37372
+175,7.RP.A.1,Unit Rate with Fractions,663995,121,6.NS.A.1,Dividing Fractions,164496
+176,7.RP.A.2a,Recognizing Proportional Relationships,613231,,,,
+177,7.RP.A.2b,Identifying the Constant of Proportionality,85626,108,5.G.A.1,Plotting in Quadrant I,
+178,7.RP.A.2c,Represent proportional relationships in equation,,,,,
+179,7.RP.A.2d,Identify unit rate from coordinates,,,,,
+180,7.RP.A.3,Percent Word Problems,40996,117,6.RP.A.3c,Percent of,413651
+180,7.RP.A.3,Percent Word Problems,40996,118,6.RP.A.3c,Percent Finding Whole,204100
+213,7.SP.A.1,Sampling Techniques,,,,,
+214,7.SP.A.2,Random sample to draw inferences,,,,,
+215,7.SP.B.3,Compare populations- center and variability,,,,,
+216,7.SP.B.4,Comparative inferences,,,,,
+217,7.SP.C.5,Probability between 0&1,,,,,
+218,7.SP.C.6,Experimental probability,,,,,
+219,7.SP.C.7a,Probability of a Single Event,8585,,,,
+220,7.SP.C.7b,Probability of a single even (not uniform),,,,,
+221,7.SP.C.8a,Probability of a Compound Event,204037,222,7.SP.C.8b,Tree Diagrams and Lists,15528
+221,7.SP.C.8a,Probability of a Compound Event,204037,219,7.SP.C.7a,Probability of a Single Event,8585
+222,7.SP.C.8b,Tree Diagrams and Lists,15528,,,,
+223,7.SP.C.8b,Sample Space,,,,,
+224,7.SP.C.8c,Probability of Two Distinct Events,,,,,
+229,8.EE.A.1,Dividing Monomials,9428,190,7.NS.A.2c,Dividing Integers,7020
+230,8.EE.A.1,Power of Powers,9494,140,6.EE.A.1,Evaluating Exponents,204176
+228,8.EE.A.1,Multiplying Monomials,9427,189,7.NS.A.2c,Multiplying Integers,5965
+231,8.EE.A.2,Square and cube roots,,,,,
+232,8.EE.A.3,Scientific notation,11893,,,,
+233,8.EE.A.4,Operations with Scientific Notation,571475,77,5.NBT.A.2,Multiplying and Dividing by Powers of 10,37002
+233,8.EE.A.4,Operations with Scientific Notation,571475,230,8.EE.A.1,Power of Powers,9494
+234,8.EE.B.5,"Compare slope in graphs, tables, & equations",,,,,
+235,8.EE.B.6,Find slope from a graph,,,,,
+236,8.EE.C.7a,Number of solutions to linear equations,,,,,
+237,8.EE.C.7b,Solving Linear Equations,10265,194,7.EE.A.1,Combining Like Terms,37570
+237,8.EE.C.7b,Solving Linear Equations,10265,145,6.EE.A.3,Distributive Property,11901
+238,8.EE.C.8a,Identify solutions to systems of equations from graphs,,,,,
+239,8.EE.C.8b,Systems of Linear Equations,8930,143,6.EE.A.2c,Substitution,
+239,8.EE.C.8b,Systems of Linear Equations,8930,198,7.EE.B.4a,Equation Solving - Two or Fewer Steps,7148
+239,8.EE.C.8b,Systems of Linear Equations,8930,134,6.NS.C.6c,Plotting on a Coordinate Plane,35008
+240,8.EE.C.8c,Systems of Linear Equations - Word Problems,8924,239,8.EE.C.8b,Systems of Linear Equations,8930
+241,8.F.A.1,"Recognize functions (gaphs, tables, list of ordered pairs)",,,,,
+242,8.F.A.2,Compare functions in different forms,,,,,
+243,8.F.A.3,Recognize linear functions from equations,,,,,
+249,8.F.B.4,Find y int from situation,,,,,
+247,8.F.B.4,Finding Slope from Ordered Pairs,9424,134,6.NS.C.6c,Plotting on a Coordinate Plane,35008
+254,8.F.B.4,Writing Linear Equations from Graphs,39162,134,6.NS.C.6c,Plotting on a Coordinate Plane,35008
+247,8.F.B.4,Finding Slope from Ordered Pairs,9424,177,7.RP.A.2b,Identifying the Constant of Proportionality,85626
+244,8.F.B.4,Finding Slope in an Equation,8949,177,7.RP.A.2b,Identifying the Constant of Proportionality,85626
+251,8.F.B.4,Writing Linear Equations from Situations,205436,177,7.RP.A.2b,Identifying the Constant of Proportionality,85626
+246,8.F.B.4,Writing Linear Equations from Slope and y-int,12449,244,8.F.B.4,Finding Slope in an Equation,8949
+246,8.F.B.4,Writing Linear Equations from Slope and y-int,12449,245,8.F.B.4,Finding y-int in an Equation,9180
+254,8.F.B.4,Writing Linear Equations from Graphs,39162,246,8.F.B.4,Writing Linear Equations from Slope and y-int,12449
+248,8.F.B.4,Writing Linear Equations from Ordered Pairs,10597,246,8.F.B.4,Writing Linear Equations from Slope and y-int,12449
+251,8.F.B.4,Writing Linear Equations from Situations,205436,246,8.F.B.4,Writing Linear Equations from Slope and y-int,12449
+248,8.F.B.4,Writing Linear Equations from Ordered Pairs,10597,247,8.F.B.4,Finding Slope from Ordered Pairs,9424
+245,8.F.B.4,Finding y-int in an Equation,9180,253,8.F.B.4,Finding x-int and y-int from a Graph,582906
+253,8.F.B.4,Finding x-int and y-int from a Graph,582906,,,,
+252,8.F.B.4,Find slope graph,,,,,
+250,8.F.B.4,Find slope from situation,,,,,
+255,8.F.B.5,Graphs from Qualitative Functions,204172,272,8.SP.A.1,Scatter Plots,574324
+256,8.G.A.1a,"Properties of rotations, reflections, & translations",,,,,
+257,8.G.A.1b,8.G.A.1b,,,,,
+258,8.G.A.1c,"Rotations, Reflections, and Translations of Parallel Lines",,,,,
+259,8.G.A.2,Describe transformation sequence,,,,,
+260,8.G.A.3,Translations,7211,134,6.NS.C.6c,Plotting on a Coordinate Plane,35008
+262,8.G.A.3,Rotations,31263,134,6.NS.C.6c,Plotting on a Coordinate Plane,35008
+1125,8.G.A.3,Dilations,,,,,
+261,8.G.A.3,Reflections,31260,134,6.NS.C.6c,Plotting on a Coordinate Plane,35008
+263,8.G.A.4,Identifying Similar Triangles,6060,207,7.G.B.5,Interior Angles of a Triangle,21257
+263,8.G.A.4,Identifying Similar Triangles,6060,176,7.RP.A.2a,Recognizing Proportional Relationships,613231
+264,8.G.A.5,Angles Formed by Parallel Lines and Transversals,9278,207,7.G.B.5,Interior Angles of a Triangle,21257
+265,8.G.A.5,Transversal,,,,,
+266,8.G.B.6,Proof of Pythagorean Theorem,,,,,
+267,8.G.B.7,Pythagorean Theorem,9251,226,8.NS.A.2,Approximating the Square Root,12450
+267,8.G.B.7,Pythagorean Theorem,9251,140,6.EE.A.1,Evaluating Exponents,204176
+267,8.G.B.7,Pythagorean Theorem,9251,143,6.EE.A.2c,Substitution,
+267,8.G.B.7,Pythagorean Theorem,9251,198,7.EE.B.4a,Equation Solving - Two or Fewer Steps,7148
+268,8.G.B.8,Pythagorean Theorem on coordinate plane,459534,,,,
+271,8.G.C.9,Volume of a Cone,8957,204,7.G.B.4,Area of Circles,10762
+269,8.G.C.9,Volume of a Cylinder,8886,204,7.G.B.4,Area of Circles,10762
+271,8.G.C.9,Volume of a Cone,8957,267,8.G.B.7,Pythagorean Theorem,9251
+270,8.G.C.9,Volume of a Sphere,8876,204,7.G.B.4,Area of Circles,10762
+225,8.NS.A.1,Identify rational numbers,,,,,
+1106,8.NS.A.1,Convert repeating decimals to fractions,,,,,
+227,8.NS.A.2,Ordering Real Numbers,,,,,
+226,8.NS.A.2,Approximating the Square Root,12450,,,,
+272,8.SP.A.1,Scatter Plots,574324,108,5.G.A.1,Plotting in Quadrant I,
+273,8.SP.A.2,Line of best fit,,,,,
+274,8.SP.A.3,Apply linear equations to scatter plots to interpret,,,,,
+275,8.SP.A.4,Two-way tables,,,,,
+327,HSA.APR.A.1,Add & subtract polynomials,,,,,
+1107,HSA.APR.A.1,Multiply polynomials,,,,,
+328,HSA.APR.B.2,Remainder Theorem of Polynomials,,,,,
+329,HSA.APR.B.3,Use 0s to graph polynomials,,,,,
+330,HSA.APR.C.4,Generate pathagorean triples,,,,,
+331,HSA.APR.C.5,Apply binomial theorem- expand (x+y)^n,,,,,
+332,HSA.APR.D.6,Rewrite simple rational expressions,,,,,
+1109,HSA.APR.D.7,Divide rational expressions,,,,,
+333,HSA.APR.D.7,Add & subtract rational expressions,,,,,
+1108,HSA.APR.D.7,Multiply rational expressions,,,,,
+1110,HSA.CED.A.1,Create & solve quadratic inequalities in one variable,,,,,
+1114,HSA.CED.A.1,Create & solve exponential inequalities in one variable,,,,,
+1113,HSA.CED.A.1,Create & solve exponential equations in one variable,,,,,
+1112,HSA.CED.A.1,Create & solve rational inequalities in one variable,,,,,
+1111,HSA.CED.A.1,Create & solve rational equations in one variable,,,,,
+334,HSA.CED.A.1,Create & solve quadratic equations in one variable,,,,,
+1115,HSA.CED.A.2,Graph equations in 2+ variables,,,,,
+335,HSA.CED.A.2,Write equations in 2+ variables,,,,,
+1117,HSA.CED.A.3,Interpret solutions,,,,,
+1116,HSA.CED.A.3,Represent constraints of systems of equations/inequalities,,,,,
+336,HSA.CED.A.3,Represent constraints of equations and inequalities,,,,,
+337,HSA.CED.A.4,Re-write formulas,,,,,
+1118,HSA.REI.8.3,Solve linear inequalities in 1-variable,,,,,
+338,HSA.REI.A.1,Explain equation solving steps,,,,,
+339,HSA.REI.A.2,Solve rational & radical equations 1-variable,,,,,
+340,HSA.REI.B.3,Solve linear equations 1-variable,,,,,
+341,HSA.REI.B.4a,Completing the square,,,,,
+342,HSA.REI.B.4b,Solve quadratic equation,,,,,
+343,HSA.REI.C.5,Prove equivalent systems of equations,,,,,
+344,HSA.REI.C.6,Solve systems of linear equations with 2-variables,,,,,
+345,HSA.REI.C.7,Solve systems of a linear and a quadratic equation,,,,,
+346,HSA.REI.C.8,Systems of linear equations as matrix equation in vector variable,,,,,
+347,HSA.REI.C.9,Solve systems of equations with inverse of matrix,,,,,
+348,HSA.REI.D.10,Graph equations in 2 variables,,,,,
+349,HSA.REI.D.11,"Use graphs to solve systems of functions (linear, polynomial, rational, absolute  value, exponential and logrithmic)",,,,,
+350,HSA.REI.D.12,Graph linear inequalities,,,,,
+1119,HSA.REI.D.12,Graph systems of linear inequalities,,,,,
+351,HSA.SSE.A.1a,Interpret parts of an expression (vocabulary),,,,,
+352,HSA.SSE.A.1b,Interpret complicated expressions,,,,,
+353,HSA.SSE.A.2,Re-write expressions,,,,,
+354,HSA.SSE.B.3a,Factor a quadratic expression to find zeros,,,,,
+355,HSA.SSE.B.3b,Complete the square of a quadratic (find max or min),,,,,
+356,HSA.SSE.B.3c,Transform expressions for exponential functions,,,,,
+357,HSA.SSE.B.4,Solve problems with finite geometric series,,,,,
+358,HSF.BF.A.1a,Write a function from context,,,,,
+359,HSF.BF.A.1b,Combine standard functions,,,,,
+360,HSF.BF.A.1c,Compose functions,,,,,
+361,HSF.BF.A.2,Write arithmetic and geometric sequences,,,,,
+362,HSF.BF.B.3,Identify the effect on the graph of new functions,,,,,
+363,HSF.BF.B.4a,Write an expression for the inverse of a function,,,,,
+364,HSF.BF.B.4b,Verify by composition the inverse of a function,,,,,
+365,HSF.BF.B.4c,Read values of an inverse function from graph or table,,,,,
+366,HSF.BF.B.4d,Produce an invertible function,,,,,
+367,HSF.BF.B.5,Solve problems using logrithms and exponents,,,,,
+368,HSF.IF.A.1,Function domain and range,,,,,
+1120,HSF.IF.A.2,Interpret function notation in context,,,,,
+369,HSF.IF.A.2,Evaluate functions for inputs in domains,,,,,
+370,HSF.IF.A.3,Recognize sequences as functions,,,,,
+1121,HSF.IF.B.4,Sketch graphs of functions using key features from context,,,,,
+371,HSF.IF.B.4,Interpret key features of function graphs and tables,,,,,
+372,HSF.IF.B.5,Relate the domain of a function to its graph,,,,,
+373,HSF.IF.B.6,Calculate & interpret the average rate of change of functions,,,,,
+1122,HSF.IF.C.7.B,Graph piecewise-defined functions,,,,,
+374,HSF.IF.C.7a,Graph linear and quadratic functions,,,,,
+375,HSF.IF.C.7b,Graph square root and cube root functions,,,,,
+376,HSF.IF.C.7c,Graph polynomial functions,,,,,
+377,HSF.IF.C.7d,Graph rational functions,,,,,
+378,HSF.IF.C.7e,Graph exponential and logrithmic functions,,,,,
+379,HSF.IF.C.8a,Interpret features of quadratic functions in context,,,,,
+380,HSF.IF.C.8b,Interpret expressions of exponential functions,,,,,
+381,HSF.IF.C.9,Compare properties of 2 functions in different forms,,,,,
+382,HSF.LE.A.1a,Linear and exponential growth,,,,,
+383,HSF.LE.A.1b,Rocognize constant rate of change,,,,,
+384,HSF.LE.A.1c,Recognize constant percent rate of change,,,,,
+385,HSF.LE.A.2,Construct linear and exponential functions,,,,,
+386,HSF.LE.A.3,Use graphs or tables to recognize exponential growth,,,,,
+387,HSF.LE.A.4,Express exponential models as logrithm,,,,,
+1123,HSF.LE.A.4,Evaluate logrithm,,,,,
+388,HSF.LE.B.5,Interpret paremeters of linear or exponential function in context,,,,,
+389,HSF.TF.A.1,Radian measure,,,,,
+390,HSF.TF.A.2,Unit circle,,,,,
+391,HSF.TF.A.3,"Use special triangles to find sine, cosine & tangent",,,,,
+1124,HSF.TF.A.3,"Use unit circle to express sine, cosine, & tangent",,,,,
+392,HSF.TF.A.4,Use unit circle to explain symmetry and periodicity of trigonometric functions,,,,,
+393,HSF.TF.B.5,Model periodic phenomena with trigonemtric functions,,,,,
+394,HSF.TF.B.6,Construct inverse of trigonometric function,,,,,
+395,HSF.TF.B.7,Use inverse functions to solve and interpret trigonometric functions in context,,,,,
+396,HSF.TF.C.8,"Use Pathagorean Identity to find sin, cos or tan",,,,,
+397,HSF.TF.C.9,"Use addition & subtraction of sine, cosine and tangent formulas to solve problems",,,,,
+398,HSG.C.A.1,Prove similar circles,,,,,
+399,HSG.C.A.2,"Inscribed angles, radii, chords",,,,,
+400,HSG.C.A.3,Construct inscribed & circumscribed circles of a triangle,,,,,
+401,HSG.C.A.4,Construct tangent line,,,,,
+402,HSG.C.B.5,Find area of a sector,,,,,
+403,HSG.CO.A.1,Definitions of vocabulary,,,,,
+404,HSG.CO.A.2,Compare transformations,,,,,
+405,HSG.CO.A.3,Describe a series of transformations,,,,,
+406,HSG.CO.A.4,Define transformations,,,,,
+407,HSG.CO.A.5,"Transformations (rotation, reflection, translation)",,,,,
+408,HSG.CO.B.6,Congruence with rigid motions,,,,,
+409,HSG.CO.B.7,Congruent triangles and rigid motions,,,,,
+410,HSG.CO.B.8,"Triangle congruence (ASA, SAS, and SSS)",,,,,
+411,HSG.CO.C.10,Prove theorems about triangles,,,,,
+412,HSG.CO.C.11,Prove theorems about parallelograms,,,,,
+413,HSG.CO.C.9,Prove theorems about lines and angles,,,,,
+414,HSG.CO.D.12,Make formal geometric constructions,,,,,
+415,HSG.CO.D.13,Construct figures inscribed in a circle,,,,,
+416,HSG.GMD.A.1,Informal argument for formulas,,,,,
+417,HSG.GMD.A.2,Cavalieri's principle for volume of sphere,,,,,
+418,HSG.GMD.A.3,"Volume of cylinders, pyramids, cones, and spheres to solve problems",,,,,
+419,HSG.GMD.B.4,Cross-sections & 3-d shapes from cross sections,,,,,
+420,HSG.GPE.A.1,Derive the equation of a circle,,,,,
+421,HSG.GPE.A.2,Derive the equation of a parabola,,,,,
+422,HSG.GPE.A.3,Derive the equations of ellipses and hyperbolas,,,,,
+423,HSG.GPE.B.4,Use coordinates to prove geometric theorems algebraically,,,,,
+424,HSG.GPE.B.5,Find equation of parallel or perpendicular line,,,,,
+425,HSG.GPE.B.6,Find a point of a line segment,,,,,
+426,HSG.GPE.B.7,Distance formula to find perimeter and area,,,,,
+427,HSG.MG.A.1,Describe objects with geometric shapes,,,,,
+428,HSG.MG.A.2,Model concepts of density based on area/volume,,,,,
+429,HSG.MG.A.3,Solve design problems,,,,,
+430,HSG.SRT.A.1a,Properties of dilation,,,,,
+431,HSG.SRT.A.1b,Dilation by scale factor,,,,,
+432,HSG.SRT.A.2,Define similarity using transformations,,,,,
+433,HSG.SRT.A.3,Establish the AA criterion for similar triangles,,,,,
+434,HSG.SRT.B.4,Prove theorems about triangles,,,,,
+435,HSG.SRT.B.5,Solve problems with triangles using congruence and similarity,,,,,
+436,HSG.SRT.C.6,Define trigonometric ratios for acute angles,,,,,
+437,HSG.SRT.C.7,use relationship between sine and cosine of complementary angles,,,,,
+438,HSG.SRT.C.8,Solve right triangles in applied problems,,,,,
+439,HSG.SRT.D.10,Use laws of Sines and Cosines to solve problems.,,,,,
+440,HSG.SRT.D.11,Find unknown measurements-right & non-right triangles,,,,,
+441,HSG.SRT.D.9,Derive the formula A = 1/2 ab sin(C),,,,,
+281,HSM,HSM,,,,,
+442,HSN.CN.A.1,Re-write complex numbers,,,,,
+443,HSN.CN.A.2,"Add, subtract, and multiply complex numbers",,,,,
+444,HSN.CN.A.3,Use conjugates to divide complex numbers,,,,,
+445,HSN.CN.B.4,Represent complex numbers on the complex plane,,,,,
+446,HSN.CN.B.5,Use geometric representation to compute complex numbers,,,,,
+447,HSN.CN.B.6,Distance on complex plane,,,,,
+448,HSN.CN.C.7,Solve quadratic equations w/ complex solutions,,,,,
+449,HSN.CN.C.8,Extend polynomial identities to complex numbers,,,,,
+450,HSN.CN.C.9,Fundamental Theorem of Algebra,,,,,
+451,HSN.Q.A.1,Choose and interpret units consistently in formulas,,,,,
+452,HSN.Q.A.2,Define appropriate quantities for descriptive modeling,,,,,
+453,HSN.Q.A.3,Choose a level of accuracy when reporting quantities,,,,,
+454,HSN.RN.A.1,Define rational exponents,,,,,
+455,HSN.RN.A.2,Equivalent expressions with rational exponents,,,,,
+456,HSN.RN.B.3,Sum/product of rational and irrational numbers,,,,,
+457,HSN.VM.A.1,Represent vector quantities,,,,,
+458,HSN.VM.A.2,Find the components of a vector,,,,,
+459,HSN.VM.A.3,Vectors to solve problems involving velocity,,,,,
+460,HSN.VM.B.4a,Add vectors,,,,,
+461,HSN.VM.B.4b,Determine the magnitude and direction of vector sums,,,,,
+462,HSN.VM.B.4c,Vector subtraction,,,,,
+463,HSN.VM.B.5a,Scaling vectors,,,,,
+464,HSN.VM.B.5b,Compute magnitude of scalar multiple,,,,,
+465,HSN.VM.C.10,Zero and identity matrices,,,,,
+466,HSN.VM.C.11,Multiply a vector by a matrix,,,,,
+467,HSN.VM.C.12,Interpret absolute value of determinant in terms of area,,,,,
+468,HSN.VM.C.6,Use matrices to represent data,,,,,
+469,HSN.VM.C.7,Multiply matrices by scalars,,,,,
+470,HSN.VM.C.8,"Add, subtract, and multiply matrices ",,,,,
+471,HSN.VM.C.9,Associative and distributive properties with matrices,,,,,
+472,HSS.CP.A.1,Subsets of sample space,,,,,
+473,HSS.CP.A.2,Independent events,,,,,
+474,HSS.CP.A.3,Understand conditional probability,,,,,
+475,HSS.CP.A.4,2-way frequency tables for probability,,,,,
+476,HSS.CP.A.5,Apply conditional probability and indepence in context,,,,,
+477,HSS.CP.B.6,Conditional probability,,,,,
+478,HSS.CP.B.7,Addition rule,,,,,
+479,HSS.CP.B.8,General Multiplication Rule in uniform probability model,,,,,
+480,HSS.CP.B.9,Permutations and combinations,,,,,
+481,HSS.IC.A.1,Inferencing population parameters,,,,,
+482,HSS.IC.A.2,Simulation to test model consistency,,,,,
+483,HSS.IC.B.3,"Identify purposes of sample surveys, experiments, & observational studies",,,,,
+484,HSS.IC.B.4,Estimate a population mean & margin of error,,,,,
+485,HSS.IC.B.5,Test for significance,,,,,
+486,HSS.IC.B.6,Evaluate reports based on data,,,,,
+487,HSS.ID.A.1,"Dot plots, histograms, and box plots",,,,,
+488,HSS.ID.A.2,"median, mean, interquartile range, standard deviation",,,,,
+489,HSS.ID.A.3,Interpret data accounting for outliers,,,,,
+490,HSS.ID.A.4,Normal distribution,,,,,
+491,HSS.ID.B.5,Summarize categorical data for two categories,,,,,
+492,HSS.ID.B.6a,Fit a function to the data,,,,,
+493,HSS.ID.B.6b,Assess the fit of a function analyze residuals,,,,,
+494,HSS.ID.B.6c,Fit a linear function,,,,,
+495,HSS.ID.C.7,Interpret a linear model in context,,,,,
+496,HSS.ID.C.8,Correlation coefficient,,,,,
+497,HSS.ID.C.9,Distinguish between correlation & causation,,,,,
+498,HSS.MD.A.1,Graph probability distribution,,,,,
+499,HSS.MD.A.2,Expected value of a random variable,,,,,
+500,HSS.MD.A.3,Use theoretical probability distribution to find expected value,,,,,
+501,HSS.MD.A.4,Use experimental probability distribution to find expected value,,,,,
+502,HSS.MD.B.5a,Find expected payoff for game of chance,,,,,
+503,HSS.MD.B.5b,Evaluate strategies on basis of expected values,,,,,
+504,HSS.MD.B.6,Use probabilities to make fair decisions,,,,,
+505,HSS.MD.B.7,Analyze decisions using probability,,,,,
+506,K.CC.A.1,Count to 100 (1's & 10's),,,,,
+507,K.CC.A.2,Count forward from any given number,,,,,
+508,K.CC.A.3,Write numbers (0-20),,,,,
+509,K.CC.B.4a,Count objects,,,,,
+510,K.CC.B.4b,Count objects in different arrangements,,,,,
+511,K.CC.B.4c,Counting-each number is one more,,,,,
+512,K.CC.B.5,Answer how many,,,,,
+513,K.CC.C.6,"Identify greater than, less than or equal to",,,,,
+514,K.CC.C.7,Compare numbers (1-10),,,,,
+515,K.G.A.1,Relative position of objects,,,,,
+516,K.G.A.2,Name shapes,,,,,
+517,K.G.A.3,Identify 2 or 3 dimensional shapes,,,,,
+518,K.G.B.4,Analyze and compare two- & three-dimensional shapes,,,,,
+519,K.G.B.5,Model shapes,,,,,
+520,K.G.B.6,Compose shapes,,,,,
+521,K.MD.A.1,Describe measurable attributes of objects,,,,,
+522,K.MD.A.2,Compare 2 objects (more/less),,,,,
+523,K.MD.B.3,Classify objects,,,,,
+524,K.NBT.A.1,Compose & decompose numbers (11-19),,,,,
+525,K.OA.A.1,Addition and subtraction with objects,,,,,
+526,K.OA.A.2,Solve addition & subtraction word problems,,,,,
+527,K.OA.A.3,Decompose numbers multiple ways,,,,,
+528,K.OA.A.4,Add to 10,,,,,
+529,K.OA.A.5,Fluently add and subtract within 5,,,,,
